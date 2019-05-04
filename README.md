@@ -4,5 +4,11 @@
 بواسطة.الهكر.الغزاوي.دكستر
      
                 البريد الإلكتروني: natsonatso50@gmail.com
-في امان. الله
+الاوامر لتشغيل الاداة 
+1-git clone https://github.com/natso500/CUUT_ALL.git
+2-cd CUUT_ALL
+3-python2 K.py
+4-217.66.226.69
+5-80
+                 في امان الله
 
