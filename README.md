@@ -12,6 +12,8 @@
 
 2-cd CUUT_ALL
 
+3-bash install.sh
+
 
 3-python2 katsar.py
 
