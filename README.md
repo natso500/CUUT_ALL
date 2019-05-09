@@ -13,7 +13,7 @@
 2-cd CUUT_ALL
 
 
-3-python2 katsar
+3-python2 katsar.py
 
 
 4-اي بي الراوتر الذي تريد قطع الانترنت عليه 
