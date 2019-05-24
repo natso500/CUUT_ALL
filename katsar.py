@@ -40,6 +40,6 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "Sent %s cut to %s and opne port:%s"%(sent,ip,port)
+     print "Sent %s cut to %s and cut port:%s"%(sent,ip,port)
      if port == 10000:
        port = 1            
