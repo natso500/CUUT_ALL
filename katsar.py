@@ -41,5 +41,5 @@ while True:
      sent = sent + 1
      port = port + 1
      print "Sent %s cut to %s and opne port:%s"%(sent,ip,port)
-     if port == 5000:
+     if port == 10000:
        port = 1            
