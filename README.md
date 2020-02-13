@@ -24,9 +24,9 @@
 
 3-bash install.sh
 
-4-bash CUUT_ALL
+4-bash CUUT_ALL.sh
 
-4-python2 katsar.py
+
 
 
 4-اي بي الراوتر الذي تريد قطع الانترنت عليه 
