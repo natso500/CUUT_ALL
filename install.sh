@@ -1,2 +1,3 @@
 ##bin/bash
-apt-get install figlet
+apt install figlet
+apt install lolcat
