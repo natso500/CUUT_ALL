@@ -7,7 +7,7 @@
  G='\e[99;32m'
  ####################
  clear
- figlet             "     CUUT_ALL  -F  " | lolcat -F 10
+ figlet             "     CUUT_ALL-F" | lolcat -F 10
 echo -e $R
 echo                              "                                                               v2"
  sleep 0.5
