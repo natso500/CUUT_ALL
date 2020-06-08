@@ -29,7 +29,7 @@ echo -e $G
  read -p "Chose namber ? " sajed
  sleep 0.5
  if [ $sajed = 1 ];then
- python2 Katsar.py 
+ python2 Katsar.pyc
 elif [ $sajed = 2 ];then
  echo -n "Enter Your IP router: "
  read g
